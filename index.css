@@ -94,7 +94,7 @@ button:hover {
 .attribution {
   color: black;
   position: absolute;
-  bottom: 100px;
+  bottom: 50px;
   left: 50%;
   transform: translateX(-50%);
   font-family: 'Lexend Deca', sans-serif;
